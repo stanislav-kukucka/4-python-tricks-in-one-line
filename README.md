@@ -1,0 +1,1 @@
+# 4-python-tricks-in-one-line
